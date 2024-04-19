@@ -1,0 +1,6 @@
+
+For VectorFields/
+matplotlib
+numpy
+manim
+~ffmpeg
